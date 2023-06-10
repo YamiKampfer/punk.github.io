@@ -1,0 +1,22 @@
+style{
+    background-clip: border-box;
+}
+
+body{
+    background-color:black;
+    
+}
+h1{
+    color:black;
+    background-color:fuchsia;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 30px;
+    text-align: center;
+
+}
+
+img {
+width: 1000px;
+height: auto;
+margin-left: 250px;
+}
